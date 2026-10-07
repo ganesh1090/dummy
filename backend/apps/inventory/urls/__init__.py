@@ -1,0 +1,1 @@
+from .inventory_urls import urlpatterns

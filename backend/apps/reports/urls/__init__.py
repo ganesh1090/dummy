@@ -1,0 +1,1 @@
+from .report_urls import urlpatterns

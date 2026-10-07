@@ -1,0 +1,1 @@
+from .fine_urls import urlpatterns
